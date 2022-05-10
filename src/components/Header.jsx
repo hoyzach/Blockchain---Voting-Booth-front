@@ -27,7 +27,7 @@ const AppLogoRight = styled(AppLogo)`
 `;
 
 const AppTitle = styled.h1`
-    font-size: calc(20px + 1.5vw);
+    font-size: calc(15px + 1.5vw);
     color: black;
     font-weight: bold;
 `;
